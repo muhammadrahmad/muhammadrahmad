@@ -26,6 +26,17 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
   </table>
     </div>
 
+### 🎖️ Skill Levels
+
+| Language    | Proficiency |
+|-------------|------------|
+| ![HTML](https://img.shields.io/badge/HTML-40%25-brightgreen?style=for-the-badge) |  
+| ![CSS](https://img.shields.io/badge/CSS-15%25-blue?style=for-the-badge) |  
+| ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge) |  
+| ![PHP](https://img.shields.io/badge/PHP-5%25-gray?style=for-the-badge) |  
+| ![Other](https://img.shields.io/badge/Other-30%25-lightgrey?style=for-the-badge) |
+
+
 ### Where to find me 🔍
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadrahmad)
