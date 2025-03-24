@@ -26,7 +26,7 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
   </table>
     </div>
 
-### 🎖️ Skill Levels
+### Skill Levels 🎖️
 
 | Language    | Proficiency |
 |-------------|------------|
