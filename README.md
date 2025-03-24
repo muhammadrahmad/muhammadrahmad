@@ -10,14 +10,6 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
 - 👥 I’m looking to collaborate as Web Designer.
 - 📫 How to reach me: muhammadrahmad12tkj@gmail.com
 
-## GitHub Statistics
-
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue)
-
-## 🚀 My Programming Languages
-
-### 🖥️ Programming Skills
-
 ## 📊 GitHub Statistics  
 
 <div align="center">
