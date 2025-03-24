@@ -27,5 +27,6 @@ You can connect with me on the following platforms:
 - I enjoy solving coding challenges and exploring how things work under the hood.
 
 ## Banner (Optional)
-![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/blob/main/img/foto.jpg)
+![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/img/foto.jpg)
+
 
