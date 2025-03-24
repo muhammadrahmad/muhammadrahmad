@@ -1,4 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/foto.jpg)
+
+# Hi there, I'm Muhammad Rahmad 👋
 
 Welcome to my page!  
 I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinang. Currently living in 🌍 Tanjung Uban, kepulauan Riau.  
