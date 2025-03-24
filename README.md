@@ -28,6 +28,4 @@ You can connect with me on the following platforms:
 - I love learning new programming languages and experimenting with different tech stacks.
 - I enjoy solving coding challenges and exploring how things work under the hood.
 
-![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/foto.jpg)
-
 
