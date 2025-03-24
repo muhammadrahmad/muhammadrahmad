@@ -46,9 +46,7 @@ Here is a breakdown of the programming languages I am familiar with:
 <progress value="5" max="100"></progress> **PHP - 5%**  
 <progress value="5" max="100"></progress> **Other - 5%**  
 
-
-
-## Where to find me
+### Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadrahmad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rahmad-753a65270)
