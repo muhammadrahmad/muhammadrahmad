@@ -5,7 +5,7 @@
 Welcome to my page!  
 I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinang. Currently living in 🌍 Tanjung Uban, kepulauan Riau.  
 
-## About me:
+## About me 📌
 - 🌱 I’m currently learning all programming languages.
 - 👥 I’m looking to collaborate as Web Designer.
 - 📫 How to reach me: muhammadrahmad12tkj@gmail.com
