@@ -1,31 +1,24 @@
-![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/foto.jpg)
+# Hi there, I'm [Your Name] 👋
 
-# Hi there, I'm Muhammad Rahmad 👋
+Welcome to my page!  
+I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinang. Currently living in 🌍 [Tanjung Uban].  
 
-## Introduction
-I am a passionate and self-motivated beginner developer with a keen interest in learning new technologies and solving problems. I am currently improving my skills and actively exploring new tools and programming languages. I'm excited about growing my knowledge and contributing to open-source projects.
+## About me:
+- 🌱 I’m currently learning all programming languages.
+- 👥 I’m looking to collaborate as Web Designer.
+- 📫 How to reach me: muhammadrahmad12tkj@gmail.com
 
-## Skills & Tech Stack
-Here are the technologies and programming languages I am familiar with:
+## GitHub Statistics
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Web Development**: HTML, CSS, JavaScript (Still learning)
-- **Databases**: SQLite (beginner)
-- **Tools & Technologies**: Git, GitHub
-- **IDE**: VS Code, PyCharm (beginner)
-
-## GitHub Stats (Optional)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadrahmad&show_icons=true&hide_title=true&hide=prs&count_private=true)
-
-## Social Media Links
-You can connect with me on the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/muhammad-rahmad-753a65270)
-- [Instagram](https://www.instagram.com/muhmmdrahmad_08?igsh=Y24zdm5odDFuZmR3&utm_source=ig_contact_invite)
-
-## Fun Facts & Quotes
-- "The only way to do great work is to love what you do." – Steve Jobs
-- I love learning new programming languages and experimenting with different tech stacks.
-- I enjoy solving coding challenges and exploring how things work under the hood.
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue)
 
 
+## My Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## Where to find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadrahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rahmad-753a65270)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrahmad12tkj@gmail.com)
