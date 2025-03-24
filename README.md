@@ -23,7 +23,8 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
         <h3>🎨 My Programming Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=blue" />
       </td>
-</div>
+  </table>
+    </div>
 
 ### Where to find me
 
