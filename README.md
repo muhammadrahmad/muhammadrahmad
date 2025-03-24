@@ -17,25 +17,13 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
 
 ## 🚀 My Programming Languages
 
-### 🖥️ Programming Skills
+📊 **Skill Level Chart**
+HTML       ██████████ 60%  
+CSS        ████░░░░░░ 20%  
+JavaScript ██░░░░░░░░ 10%  
+PHP        █░░░░░░░░░ 5%  
+Other      █░░░░░░░░░ 5%  
 
-Here is a breakdown of the programming languages I am familiar with:
-
-- **HTML**: 60%  
-- **CSS**: 20%  
-- **JavaScript**: 10%  
-- **PHP**: 5%  
-- **Other**: 5%  
-
-### 🎖️ Skill Levels
-
-| Language    | Proficiency |
-|-------------|------------|
-| ![HTML](https://img.shields.io/badge/HTML-60%25-brightgreen?style=for-the-badge) |  
-| ![CSS](https://img.shields.io/badge/CSS-20%25-blue?style=for-the-badge) |  
-| ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge) |  
-| ![PHP](https://img.shields.io/badge/PHP-5%25-gray?style=for-the-badge) |  
-| ![Other](https://img.shields.io/badge/Other-5%25-lightgrey?style=for-the-badge) |
 
 
 ### Where to find me
