@@ -37,14 +37,6 @@ Here is a breakdown of the programming languages I am familiar with:
 | ![PHP](https://img.shields.io/badge/PHP-5%25-gray?style=for-the-badge) |  
 | ![Other](https://img.shields.io/badge/Other-5%25-lightgrey?style=for-the-badge) |
 
-### 📊 Progress Bars
-
-```html
-<progress value="60" max="100"></progress> **HTML - 60%**  
-<progress value="20" max="100"></progress> **CSS - 20%**  
-<progress value="10" max="100"></progress> **JavaScript - 10%**  
-<progress value="5" max="100"></progress> **PHP - 5%**  
-<progress value="5" max="100"></progress> **Other - 5%**  
 
 ### Where to find me
 
