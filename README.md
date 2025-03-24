@@ -17,11 +17,11 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
     <tr>
       <td valign="top" width="50%">
         <h3>🔹 My GitHub Statistics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue" />
       </td>
       <td valign="top" width="50%">
         <h3>🎨 My Programming Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=blue" />
       </td>
 </div>
 
