@@ -14,17 +14,17 @@ I'm Muhammad Rahmad, a student from Indonesian School of Technology Tanjungpinan
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue)
 
-
 ## 🚀 My Programming Languages
 
-📊 **Skill Level Chart**
-HTML       ██████████ 60%  
-CSS        ████░░░░░░ 20%  
-JavaScript ██░░░░░░░░ 10%  
-PHP        █░░░░░░░░░ 5%  
-Other      █░░░░░░░░░ 5%  
+### 🖥️ Programming Skills
 
+Here is a breakdown of the programming languages I am familiar with:
 
+- **HTML**: 60%  
+- **CSS**: 20%  
+- **JavaScript**: 10%  
+- **PHP**: 5%  
+- **Other**: 5%  
 
 ### Where to find me
 
