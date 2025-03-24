@@ -1,4 +1,4 @@
-![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/profile.jpg)
+![My Banner](https://github.com/muhammadrahmad/muhammadrahmad/raw/main/profile.png)
 
 # Hi there, I'm Muhammad Rahmad 👋
 
