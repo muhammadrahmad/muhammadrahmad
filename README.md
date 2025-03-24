@@ -19,6 +19,7 @@ Here are the technologies and programming languages I am familiar with:
 You can connect with me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-rahmad-753a65270)
+- [Instagram](https://www.instagram.com/muhmmdrahmad_08?igsh=Y24zdm5odDFuZmR3&utm_source=ig_contact_invite)
 
 ## Fun Facts & Quotes
 - "The only way to do great work is to love what you do." – Steve Jobs
